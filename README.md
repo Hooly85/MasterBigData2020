@@ -5,3 +5,7 @@ This repository is a space dedicated to the projects i've worked on after the ma
 
 ## Spotify_Hit_Predictor_80'.ipynb
 Here the goal of the work was to built a hit predictor model. I focused on the 80's dataset, my favourite music decade.
+
+
+
+## Churn Analysis
