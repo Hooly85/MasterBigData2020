@@ -8,4 +8,5 @@ Here the goal of the work was to built a hit predictor model. I focused on the 8
 
 
 
-## Churn Analysis
+## Churn_Analysis_Telco.ipynb
+Here the goai il to predict the churn of telco company's customers
