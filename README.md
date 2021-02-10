@@ -10,3 +10,7 @@ Here the goal of the work was to built a hit predictor model. I focused on the 8
 
 ## Churn_Analysis_Telco.ipynb
 Here the goal was to predict the churn of telco company's customers
+
+
+## ACEA_Kaggle_Competition_Bilancino_Lake.ipynb
+The goal is to forecasting the time series for predicting the level of the Lake of Bilancino
